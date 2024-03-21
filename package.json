@@ -1,0 +1,23 @@
+{
+  "name": "abdulnabi-calculator-6",
+  "version": "1.2.2",
+  "description": "This is simple Calculator created by TypeScript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Claculator",
+    "Calculate_Here."
+  ],
+  "author": "Abdul Nabi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
